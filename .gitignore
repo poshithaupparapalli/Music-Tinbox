@@ -1,0 +1,23 @@
+# KiCad backup files
+*.kicad_prl
+*-backups/
+_autosave-*
+*.bak
+
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

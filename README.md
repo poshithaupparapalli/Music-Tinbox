@@ -13,11 +13,6 @@ What I hope It Does
 - USB-C powered
 - Fits in an Altoids tin
 
-## How It Works
-
-<!-- TODO: Write this in your own words once you understand the signal flow -->
-<!-- Hint: trace the path from sound → mic → op-amp → ADC → flash → DAC → speaker -->
-
-## Status
+Status
 
 Understand the circuit (read lcamtuf's blog post + Sage's schematic)

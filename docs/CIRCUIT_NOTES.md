@@ -1,9 +1,5 @@
 # Circuit Notes
 
-> This is YOUR learning journal. As you read the schematics, datasheets, and blog posts,
-> write down what you learn here. Explain things in your own words — if you can't explain it,
-> you don't understand it yet.
-
 ---
 
 ## Signal Flow (The Big Picture)
@@ -59,11 +55,3 @@
 - [ ] 
 
 ---
-
-## Useful Resources
-
-- lcamtuf's audio toy post: https://lcamtuf.substack.com/p/mcu-land-part-4-building-an-audio
-- lcamtuf's mic amplifier post: https://lcamtuf.substack.com/p/building-a-decent-microphone-amplifier
-- lcamtuf's PCB design tutorial: https://lcamtuf.substack.com/p/designing-your-own-pcbs
-- AVR128DA28 datasheet: in `references/` folder (or Sage's repo under `datasheets/`)
-- KiCad getting started: https://docs.kicad.org/
